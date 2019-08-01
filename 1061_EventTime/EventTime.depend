@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1557228569 source:d:\c++,c\c++levelo\eventtime\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
