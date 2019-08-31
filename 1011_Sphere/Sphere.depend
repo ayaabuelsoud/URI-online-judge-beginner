@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1548971791 source:d:\c++,c\c++levelo\sphere\main.cpp
+	<iostream>
+	<iomanip>
+
+1548971792 source:d:\aya\c++,c\c++levelo\sphere\main.cpp
+	<iostream>
+	<iomanip>
+

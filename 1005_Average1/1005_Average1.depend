@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1567209944 source:d:\aya\c++,c\uri online judge-beginner\1005_average1\main.cpp
+	<iostream>
+	<iomanip>
+
