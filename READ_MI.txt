@@ -1,3 +1,0 @@
-Hello! this is my solution to problems from URI Online Judge using C++ .
-If possible, I'll add more solutions in the future.
-please don't just ctrl+c & ctr+v the solution, Try it yourself, may be you can solve it better than me, and I would be happy if you told me so. We learn from each other!.
